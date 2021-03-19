@@ -6,8 +6,13 @@ A selection of open-source roadmaps to help everyone who wants to get started wi
 
 You can find multiple file formats of each kickstart roadmap in the directories. If you are new to Business Central, you can find detailed descriptions of most information in the [official Microsoft documentation of Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview).  
 
+
+
 - **development kickstart**: get started with the basics of development in Business Central
 - **modules kickstart**: get started with the modules that **most companies** use
+- **resources**: a collection of free resources to learn, consult and socialize! 
+
+
 
 ## Contribute
 
