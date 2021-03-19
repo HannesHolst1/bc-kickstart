@@ -20,7 +20,7 @@ A collection of resources that help you to start or move forward your career wit
 - **Business Central Azure VM** - http://aka.ms/getbc
   - Create a Business Central environment to start development.
   - Going this path, you create a Virtual Machine in Azure. 
-  - That means you have to pay for the service provided by Azure. The costs for that can be calculated and manageable.
+  - That means you have to pay for the service provided by Azure. The costs for that can be calculated and are manageable.
 - **Business Central local** - https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-running-container-development
   - Create a Docker container of Business Central that runs on your local PC.
 
